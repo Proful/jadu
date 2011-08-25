@@ -1,0 +1,28 @@
+Jadu
+----
+----
+
+Initial Thoughts
+----------------
+
+Webbase bootstrap project. Create the skeleton project, install dependency. Able to add attribute to a model with validation rules. Generate REST based api for CRUD operation. 
+
+Edit should properly synchronize with code base.
+
+Technology
+----------
+Framework: Express
+Database: MongoDB
+ORM Layer: Mongoose
+Language: coffeescript
+Template: jade, Handlebar
+Underlining framework: Node.js
+
+Project Creation
+----------------
+
+Developer will enter project name and submit.
+1. A folder with project name will be created (where?)
+2. install express, create skeleton
+3. install mongoose, coffeescript,jade
+4. copies handlebar js
